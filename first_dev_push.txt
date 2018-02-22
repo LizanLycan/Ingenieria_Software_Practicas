@@ -5,3 +5,5 @@ Primer push con la rama `development` y `master` creada.
 "FEATURE PARA GIT FLOW"
 
 "NEW FEATURE ADDED"
+
+--> AFTER RESOLVING CONFLICT
