@@ -4,4 +4,6 @@ Primer push con la rama `development` y `master` creada.
 
 "FEATURE PARA GIT FLOW"
 
-"OH NO, ERROR TO PRODUCTION (generate conflict)"
+"NEW FEATURE ADDED"
+
+--> AFTER RESOLVING CONFLICT
